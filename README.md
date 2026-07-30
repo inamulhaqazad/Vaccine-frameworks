@@ -62,7 +62,7 @@ This document summarizes three antigen-design frameworks — **epitope-based**, 
 
 ## 3. Epitope-based framework
 
-This is the framework with the **weakest track record of full licensure for human infectious-disease prevention** — worth flagging explicitly given how central epitope selection is to your own HCV pipeline. Peptide/epitope vaccines remain, almost without exception, investigational for human infectious disease and oncology; none has cleared FDA approval to date. WHO nonetheless maintains manufacturing/QC guidance for the class, reflecting sustained development interest.
+This is the framework with the **weakest track record of full licensure for human infectious-disease prevention** Peptide/epitope vaccines remain, almost without exception, investigational for human infectious disease and oncology; none has cleared FDA approval to date. WHO nonetheless maintains manufacturing/QC guidance for the class, reflecting sustained development interest.
 
 | Vaccine / candidate | Pathogen | Technology platform | Design basis | Regulatory status |
 |---|---|---|---|---|
