@@ -1,0 +1,9 @@
+| Technology Type | Description | Advantages | Current Applications | References |
+| --- | --- | --- | --- | --- |
+| mRNA Vaccines | Nucleic acid-based vaccines encoding pathogen antigens; includes non-replicating and self-amplifying platforms. | Rapid design and manufacturing; strong immunogenicity; adaptable to variants | COVID-19; infectious disease development | www.frontiersin.org |
+| DNA Vaccines | Plasmid-based delivery of genetic material encoding antigens. | Stable; cost-effective; can elicit both cellular and humoral responses | Infectious diseases; cancer immunotherapy | www.frontiersin.org |
+| Viral Vector Vaccines | Uses attenuated or non-replicating viruses to deliver antigen-encoding genes. | Strong immunogenicity; established safety profile | Infectious disease prevention | journals.plos.org + 1 |
+| Protein Subunit Vaccines | Recombinant or purified protein antigens; often combined with adjuvants. | Safe; well-characterised; can target specific epitopes | HPV; hepatitis B; emerging infectious diseases | journals.plos.org + 1 |
+| Virus-Like Particles (VLPs) | Self-assembling particles mimicking viral structure without genetic material. | Highly immunogenic; structurally similar to native pathogens; safe | Papillomavirus; hepatitis B | www.frontiersin.org |
+| Live Attenuated/Inactivated Vaccines | Traditional approaches using weakened or killed pathogens. | Established efficacy; long-term immunity | Routine immunisation programmes | journals.plos.org |
+| Bacterial Vector Vaccines | Uses attenuated bacteria to deliver antigens. | Mucosal immunity potential; adjuvant properties | Emerging infectious diseases | www.frontiersin.org |
